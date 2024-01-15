@@ -1,16 +1,7 @@
 ---
-title: The Wandering Village
+title: Prova post 01
 tags: recensione
 author: VideoGame Club
 ---
 
-The Wandering Village è entrato da poco nel gamepass se non sbaglio, è in accesso anticipato da settembre 2022, ma sembra a un punto molto avanzato di sviluppo, immagino pubblicheranno tra poco. Gioco 2D isometrico, grafica illustrata.
-
-Secondo me questo è una chicca vera, ha una forte identità artistica e parte proprio da un'idea geniale nella sua semplicità: la mappa dove costruire la propria città, recuperare risorse e far crescere la civiltà è in realtà il dorso di un gigantesco tartarugone mistico senziente, in continuo cammino verso una meta sconosciuta.
-
-Questa cosa ovviamente innesca una serie di meccaniche aggiuntive rispetto alla classica gestione della città. L'Onbu ha dei bisogni di base che, mentre costruisci la tua città, devono essere soddisfatti (fame, sonno, salute, ecc.) altrimenti si incazzerà e cercherà di scrollarti di dosso provocando terremoti e catastrofi. I bisogni comunque scendono piuttosto lentamente e hai tutto il tempo di pensare alla città senza dover badare continuamente a lui. Costruendo la città bisogna stare attenti anche a cosa può nuocere alla salute dell'Onbu, evitando di inquinare troppo il terreno dove costruisci, che è la sua schiena.
-L'Onbu è anche in continuo movimento (tranne quando si ferma per dormire), la partita così risulta semplicemente un lungo viaggio. Essendo in costante cammino l'ambiente intorno all'Onbu cambia e così anche il meteo, la temperatura. Questo può influire per esempio sui campi coltivati che dovranno essere adattati al meteo delle varie ambientazioni. Alcuni ambienti sono più vivibili di altri e bisogna essere in grado di adattarsi.
-Nel gioco non c'è una vera e propria mappa, ma tra le visuali disponibili, allontanandosi il più possibile dall'Onbu è visibile il territorio circostante. In questa modalità puoi inviare delle squadre a recuperare risorse in luoghi vicini oppure puoi provare a indicare alla creatura la strada da seguire quando ti trovi vicino ad un bivio. Dico provare perché l'Onbu è una creatura senziente e sarà sempre lui ad avere l'ultima parola su queste decisioni, così come può decidere di ignorare completamente i tuoi consigli.
-Tutte queste meccaniche hanno lo scopo di non renderti solo una civiltà parassita nei confronti del tuo Onbu, ma di essere inizialmente un suo aiutante e badante, fino a diventare un suo compagno se trattato con le dovute cure.
-Menzione speciale per la direzione artistica, devastante. Graficamente sono riusciti ad unire stili completamente diversi che cambiano visibilmente allontanando e avvicinando la camera (che non può ruotare), passando da illustrazioni stilizzate e animate a bassi frame guardando gli edifici da molto vicino, fino ad avere un soggetto molto dettagliato e animato fluidamente allontanando la visuale dall'Onbu.
-L'audio non è da meno, soundtrack incredibile, soprattutto la musica del menu, sound design buono.
+Prova post 01
