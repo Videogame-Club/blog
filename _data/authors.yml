@@ -3,3 +3,8 @@ viac:
   bio       : "A developer"
   avatar    : "/assets/images/avatar/viac.jpeg"
   github    : "viac92"
+
+rose:
+  name      : "rose"
+  bio       : "A developer"
+  avatar    : "/assets/images/avatar/rose.jpeg"
